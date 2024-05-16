@@ -27,6 +27,7 @@ To run this project locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Make sure you have Java installed on your machine.
 3. Set up a Supabase account and create a new project with a vector database.
+(Note:- in the servlet page the url and apikey is mine chage the SUPABASE_URL and SUPABASE_KEY to your url and key which is genrated while you create project in your Supabase account.)
 4. Set up environment variables for your Supabase project.
 5. Run the Java server.
 6. Open the src/main/webapp/ `index.jsp` file in your web browser.
